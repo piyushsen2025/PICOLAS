@@ -1,0 +1,21 @@
+{
+  "name": "picolas",
+  "version": "1.0.0",
+  "description": "Premium Creative Web Development & Digital Growth Agency",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "lint": "echo 'No linter configured for static HTML'"
+  },
+  "keywords": [
+    "picolas",
+    "web-development",
+    "digital-agency"
+  ],
+  "author": "PICOLAS",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
